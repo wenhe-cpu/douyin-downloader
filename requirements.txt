@@ -1,0 +1,6 @@
+# 建议保持 yt-dlp 为最新版：抖音解析规则经常变化
+yt-dlp
+Flask
+pypinyin
+pyperclip
+requests
